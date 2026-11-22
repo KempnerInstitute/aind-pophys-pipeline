@@ -1,6 +1,8 @@
 /data/
 /results/
 /work/
+/plan/
+/images/
 
 # Local Nextflow state and backend overrides
 pipeline/process_versions_custom.env
